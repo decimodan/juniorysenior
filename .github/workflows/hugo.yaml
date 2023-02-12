@@ -5,7 +5,7 @@ name: Set Hugo-On-Fire
 # Triggers when any commit is pushed on Master
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
